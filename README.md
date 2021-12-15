@@ -1,5 +1,4 @@
 # Simulation of a drone to implement RL course algorithms
-By Mansi Pawar
 
 Motivation of the project: I came across a post on LinkedIn about delivery smart drones which delivers food and other items to various locations around the city. These drones used MC algorithm. The tasks included the map of the city, to exchange information across the drone stations and the control systems included the flying route plan. In this project, we'll train a Robot Operating System based drone to fly to a certain destination in space while staying as low as possible perhaps to escape detection and avoiding obstacles.
 Over the semester, this course has helped me implement the state-of-art application of robotics i.e., artificial intelligence. The goal of this project was to broaden your robotics understanding of this cutting-edge and fascinating field of machine learning. The coding and simulations are done in software ROS (Robot Operating Systems). I was more interested in applying these algorithms to control the robot.
