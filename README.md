@@ -12,9 +12,9 @@ Softwares used: ROS, OpenAI Gym and Gazebo.
 
 Github Link to the project: 
 The ROS package that I have uploaded in my github is as follows 
-1.	launch directory: main.launch file that we used to launch training.
-2.	config directory: configuration file qlearn_params.yaml with parameters for training. This is helping for tuning of parameters and keeping everything sequential.
+1.	launch/xml: main.launch file that we used to launch training.
+2.	config: configuration file qlearn_params.yaml with parameters for training. This is helping for tuning of parameters and keeping everything sequential.
 3.	training_results: results of training.
-4.	utils directory: Python file plot_results.py 
-5.	src directory: code for the training of the drone. 
+4.	utils: Python file plot_results.py 
+5.	src: code for the training of the drone. 
 
